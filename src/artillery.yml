@@ -8,3 +8,4 @@ scenarios:
   - flow:
       - get:
           url: "/Prod/ping"
+          count: 600
